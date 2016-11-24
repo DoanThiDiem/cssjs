@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://www.dutuantoan.net/' target='_blank'><img src='http://www.dutuantoan.net/components/com_jshopping/files/img_products//thumb_slide5.jpg' width='500px'/><br/>xưởng sản xuất dù che nắng tuấn toàn </a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://www.dutuantoan.net/' target='_blank'><img src='http://www.dutuantoan.net/components/com_jshopping/files/img_products//thumb_slide5.jpg' width='500px'/><br/>xưởng sản xuất dù che nắng tuấn toàn </a>. dù che nắng giá rẻ <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
